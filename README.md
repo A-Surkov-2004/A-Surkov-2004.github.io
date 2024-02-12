@@ -2,41 +2,6 @@
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
-
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="/cayman/assets/css/style.css?v=56aa6db3b5088a555aa563e8bf071f3d18565d3b">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/cayman/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  </head>
-  <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-
-    <header class="page-header" role="banner">
-      <h1 class="project-name">Cayman theme</h1>
-      <h2 class="project-tagline">Cayman is a clean, responsive theme for GitHub Pages.</h2>
-      
-        <a href="https://github.com/pages-themes/cayman" class="btn">View on GitHub</a>
-      
-      
-        <a href="https://github.com/pages-themes/cayman/zipball/master" class="btn">Download .zip</a>
-        <a href="https://github.com/pages-themes/cayman/tarball/master" class="btn">Download .tar.gz</a>
-      
-    </header>
-
-    <main id="content" class="main-content" role="main">
       <p>Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>.</p>
 
 <p><a href="./another-page.html">Link to another page</a>.</p>
