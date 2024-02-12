@@ -1,24 +1,7 @@
-<!DOCTYPE html>
+
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Cayman theme | Cayman is a clean, responsive theme for GitHub Pages.</title>
-<meta name="generator" content="Jekyll v3.9.3" />
-<meta property="og:title" content="Cayman theme" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Cayman is a clean, responsive theme for GitHub Pages." />
-<meta property="og:description" content="Cayman is a clean, responsive theme for GitHub Pages." />
-<link rel="canonical" href="https://pages-themes.github.io/cayman/" />
-<meta property="og:url" content="https://pages-themes.github.io/cayman/" />
-<meta property="og:site_name" content="Cayman theme" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Cayman theme" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"Cayman is a clean, responsive theme for GitHub Pages.","headline":"Cayman theme","name":"Cayman theme","url":"https://pages-themes.github.io/cayman/"}</script>
-<!-- End Jekyll SEO tag -->
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
