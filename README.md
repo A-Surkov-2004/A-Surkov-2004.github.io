@@ -3,7 +3,7 @@
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./scond_page.html).
+[Link to another page](./second_page.html).
 
 There should be whitespace between paragraphs.
 
